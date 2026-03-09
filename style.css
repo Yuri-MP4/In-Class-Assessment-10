@@ -37,5 +37,12 @@ nav a{
 
 .sitebanner {
   float: left;
-  font-family: Luminari;
+  font-family: Papyrus;
+}
+
+main {
+  position: relative;
+  top: 60px;
+  width: 550px;
+  margin: 0 0 100px 25px;
 }
