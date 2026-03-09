@@ -15,7 +15,6 @@ html {
 header {
   width: 100vw;
   text-transform: uppercase;
-  text-align: right;
   color: #ffffff;
   background-color: #BF0F32;
   position: fixed;
@@ -32,6 +31,7 @@ nav a{
   display: inline;
   color: #ffffff;
   text-decoration: none;
+  float: right;
 }
 
 .sitebanner {
@@ -41,8 +41,8 @@ nav a{
 
 main {
   position: relative;
-  top: 60px;
-  width: 550px;
+  top: 80px;
+  width: 500px;
   margin: 0 0 100px 25px;
 }
 
