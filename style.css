@@ -84,4 +84,14 @@ a:hover{
   text-decoration: none;
 }
 
+.gif {
+  width: 90vw;
+  position: sticky;
+  top: 175px;
+}
 
+.sonic {
+  height: 150px;
+  width: auto;
+  float: right;
+}
