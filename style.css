@@ -14,7 +14,6 @@ html {
 
 header {
   width: 100vw;
-  font-size: 12px;
   text-transform: uppercase;
   text-align: right;
   color: #ffffff;
@@ -45,4 +44,16 @@ main {
   top: 60px;
   width: 550px;
   margin: 0 0 100px 25px;
+}
+
+h1 {
+font-size: 2.0rem;
+  Font-Family: Copperplate;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.story {
+   margin-top: 16px;
+   background-color: #1F1B1B;
 }
