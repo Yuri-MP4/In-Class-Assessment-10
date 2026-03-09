@@ -44,7 +44,6 @@ main {
   top: 60px;
   width: 550px;
   margin: 0 0 100px 25px;
-  border-radius: 7px;
 }
 
 h1 {
@@ -58,7 +57,14 @@ font-size: 2.0rem;
    margin-top: 16px;
    background-color: #1F1B1B;
    padding: 15px;
+   border-radius: 7px;
 }
+
+  p {
+  text-align: justify;
+  padding: 12px 0;
+}
+
 
 a {
   color: #ffffff;
