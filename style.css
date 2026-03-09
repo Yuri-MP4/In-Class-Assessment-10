@@ -3,3 +3,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  background-color: #421520;
+  font-size: 16px;
+  font-family: Oswald, sans-serif;
+  color: #ffffff;
+  line-height: 1.5;
+}
+
+header {
+  width: 100vw;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
+  color: #ffffff;
+  background-color: #BF0F32;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 10px;
+  z-index: 10;
+}
